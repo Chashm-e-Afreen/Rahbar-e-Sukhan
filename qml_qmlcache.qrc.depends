@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<RCC>
+    <qresource prefix="/">
+        <file alias="main.qml">main.qml</file>
+        <file alias="output.qml">output.qml</file>
+        <file alias="card.qml">card.qml</file>
+        <file alias="home.qml">home.qml</file>
+        <file alias="text.qml">text.qml</file>
+        <file alias="filler.qml">filler.qml</file>
+        <file alias="button.qml">button.qml</file>
+        <file alias="busy.qml">busy.qml</file>
+        <file alias="Files/loader.png">Files/loader.png</file>
+        <file alias="Files/good-1.gif">Files/good-1.gif</file>
+        <file alias="edit.qml">edit.qml</file>
+        <file alias="Files/loading.gif">Files/loading.gif</file>
+        <file alias="Files/Economica.ttf">Files/Economica.ttf</file>
+        <file alias="Files/mehr.ttf">Files/mehr.ttf</file>
+        <file alias="Files/Lughat.csv">Files/Lughat.csv</file>
+    </qresource>
+</RCC>

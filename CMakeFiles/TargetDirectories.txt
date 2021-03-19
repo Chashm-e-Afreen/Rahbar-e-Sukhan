@@ -1,0 +1,4 @@
+/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/rebuild_cache.dir
+/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/edit_cache.dir
+/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan.dir
+/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan_autogen.dir

@@ -1,0 +1,36 @@
+{
+	"BUILD_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen",
+	"CMAKE_BINARY_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
+	"CMAKE_SOURCE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
+	"INCLUDE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/busy.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/output.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/home.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/edit.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/filler.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/text.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/card.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/main.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml/button.qml",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/Lughat.csv",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/loading.gif",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/Economica.ttf",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/loader.png",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/good-1.gif",
+		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Files/mehr.ttf"
+	],
+	"LOCK_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/AutoRcc_qml_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "qml" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_qml.cpp",
+	"RCC_EXECUTABLE" : "/usr/bin/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/AutoRcc_qml_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml.qrc",
+	"VERBOSITY" : 0
+}

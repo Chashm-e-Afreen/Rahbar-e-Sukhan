@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/Isqat.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Isqat.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Isqat.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/Lafz.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Lafz.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Lafz.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/Meter.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Meter.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Meter.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/Satoor.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satoor.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satoor.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/Satr.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satr.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satr.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/combination.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/combination.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/combination.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/dummy_class.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/dummy_class.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/dummy_class.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/fetch_dict.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/fetch_dict.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/fetch_dict.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/input.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/input.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/input.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/levenshtein.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/levenshtein.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/levenshtein.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/main.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/main.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/main.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_iterator.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_iterator.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_iterator.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_string.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_string.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_string.cpp"
+},
+{
+  "directory": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build",
+  "command": "/bin/c++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_QMLMODELS_LIB -DQT_QML_LIB -DQT_QUICK_LIB -I. -I../ -IRahbar-e-Sukhan_autogen/include -I../include -isystem /usr/include/qt -isystem /usr/include/qt/QtQml -isystem /usr/include/qt/QtNetwork -isystem /usr/include/qt/QtCore -isystem /usr/lib/qt/mkspecs/linux-g++ -isystem /usr/include/qt/QtQuick -isystem /usr/include/qt/QtQmlModels -isystem /usr/include/qt/QtGui -g -fPIC -std=gnu++2a -o CMakeFiles/Rahbar-e-Sukhan.dir/Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp.o -c /home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp",
+  "file": "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/build/Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp"
+}
+]

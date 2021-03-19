@@ -1,0 +1,19 @@
+# ninja log v5
+0	896	1615836894729539126	Rahbar-e-Sukhan_autogen/timestamp	dd7eb80257d8dc80
+897	1383	1615836895206207981	Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp	b4cbaccc7e47b75d
+1383	8417	1615836902236240213	CMakeFiles/Rahbar-e-Sukhan.dir/src/Isqat.cpp.o	8731b9b313789ec4
+1387	10621	1615836904436250283	CMakeFiles/Rahbar-e-Sukhan.dir/src/Lafz.cpp.o	af56d3cc343d11f2
+1394	20209	1615836914029627434	CMakeFiles/Rahbar-e-Sukhan.dir/src/Meter.cpp.o	be0c5e461ff1a7fe
+8418	22438	1615836916252970902	CMakeFiles/Rahbar-e-Sukhan.dir/src/combination.cpp.o	df7982ec210b3b88
+1401	23006	1615836916822973499	CMakeFiles/Rahbar-e-Sukhan.dir/src/Satr.cpp.o	cd80633225a1ba3c
+20211	27773	1615836921602995256	CMakeFiles/Rahbar-e-Sukhan.dir/src/fetch_dict.cpp.o	db29ae525b956c85
+22439	28212	1615836922036330559	CMakeFiles/Rahbar-e-Sukhan.dir/src/input.cpp.o	3001e28f4bfd8c96
+23007	29850	1615836923679671363	CMakeFiles/Rahbar-e-Sukhan.dir/src/levenshtein.cpp.o	f3d6d1cd0dd4727f
+28212	32087	1615836925919681538	CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_iterator.cpp.o	d7f232090796d394
+1399	32113	1615836925919681538	CMakeFiles/Rahbar-e-Sukhan.dir/src/Satoor.cpp.o	493c88147f831bb5
+1383	33007	1615836926833019018	CMakeFiles/Rahbar-e-Sukhan.dir/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp.o	43990263dda39865
+29850	35668	1615836929496364437	CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_string.cpp.o	56b512ae4ebb1564
+10621	37432	1615836931259705765	CMakeFiles/Rahbar-e-Sukhan.dir/src/dummy_class.cpp.o	340e4e0c7b0dc4ab
+32087	40432	1615836934263052704	CMakeFiles/Rahbar-e-Sukhan.dir/Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp.o	ae3839851576fec2
+27773	43773	1615836937603067819	CMakeFiles/Rahbar-e-Sukhan.dir/src/main.cpp.o	cc5224456f7ee46c
+43773	45034	1615836938856406820	Rahbar-e-Sukhan	e12b6bfadf16dd9d

@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+be86ffd4a78a6b6c9ec7b1522e3ed645 CMakeFiles/Rahbar-e-Sukhan_autogen
+ce014407858e4e06c9107a9efee75e0d Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp
+58be2ccff8d6c03ad1d0d17776f07198 qrc_qml.cpp
