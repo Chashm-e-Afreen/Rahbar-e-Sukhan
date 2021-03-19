@@ -104,7 +104,8 @@ void Satr::gen_islah(){
 void Satr::modify_satr_again(const std::string &meter_closest) {
     behr = NAMES.at(meter_closest);
     afaeel = METERS.at(meter_closest);
-    meter.meter_set(combinations, meter_closest, closest,weights,behr,afaeel);
+    if (!combinations.empty())
+        meter.meter_set(combinations, meter_closest, closest,weights,behr,afaeel);
 }
 
 

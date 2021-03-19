@@ -17,9 +17,9 @@ file(REMOVE_RECURSE
   "CMakeFiles/Rahbar-e-Sukhan.dir/src/main.cpp.o"
   "CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_iterator.cpp.o"
   "CMakeFiles/Rahbar-e-Sukhan.dir/src/utf8_string.cpp.o"
-  "Rahbar-e-Sukhan"
-  "Rahbar-e-Sukhan.pdb"
   "Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp"
+  "bin/Rahbar-e-Sukhan"
+  "bin/Rahbar-e-Sukhan.pdb"
 )
 
 # Per-language clean rules from dependency scanning.
