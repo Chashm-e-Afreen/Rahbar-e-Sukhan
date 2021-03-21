@@ -16,5 +16,6 @@
         <file>Files/Economica.ttf</file>
         <file>Files/mehr.ttf</file>
         <file>Files/Lughat.csv</file>
+        <file alias="icon.svg">Files/bomber.svg</file>
     </qresource>
 </RCC>

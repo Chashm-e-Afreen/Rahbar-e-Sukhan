@@ -72,17 +72,18 @@ std::vector<std::string> combination::gen_islah(bool mozun, std::string closest_
     if (mozun) {
         return combination_vector;
     }
-
     std::vector<std::string> islah;
     std::size_t prev = 0;
 
     for (const auto &i: word_end_locations) {
         std::string temp;
         if (i <= closest_meter.length()) {
-            temp = closest_meter.substr(prev,i+1-prev);
-            if (i == *word_end_locations.rbegin())
-                temp = closest_meter.substr(prev);
+            temp = closest_meter.substr(prev,i+1-prev); 
+            // if (i == *word_end_locations.rbegin())
+            //     temp = closest_meter.substr(prev);           
         } 
+        if (i == *word_end_locations.rbegin() && prev <= closest_meter.length())
+                temp = closest_meter.substr(prev);
         islah.push_back(temp);
         prev = i + 1;
     }

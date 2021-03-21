@@ -21,9 +21,9 @@ set(CMAKE_CXX_SIMULATE_VERSION "")
 
 
 set(CMAKE_AR "/bin/ar")
-set(CMAKE_CXX_COMPILER_AR "/bin/gcc-ar")
+set(CMAKE_CXX_COMPILER_AR "/bin/x86_64-pc-linux-gnu-gcc-ar")
 set(CMAKE_RANLIB "/bin/ranlib")
-set(CMAKE_CXX_COMPILER_RANLIB "/bin/gcc-ranlib")
+set(CMAKE_CXX_COMPILER_RANLIB "/bin/x86_64-pc-linux-gnu-gcc-ranlib")
 set(CMAKE_LINKER "/bin/ld")
 set(CMAKE_MT "")
 set(CMAKE_COMPILER_IS_GNUCXX 1)

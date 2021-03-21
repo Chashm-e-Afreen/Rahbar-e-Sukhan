@@ -81,6 +81,7 @@ Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: CMakeFiles/Rahbar-e-Sukhan_autog
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/busy.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/output.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/home.qml
+Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: Files/bomber.svg
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/edit.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/filler.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/text.qml
