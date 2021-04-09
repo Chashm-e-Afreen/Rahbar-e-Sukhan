@@ -76,6 +76,7 @@
         "valarray": "cpp",
         "variant": "cpp",
         "qquickview": "cpp",
-        "qguiapplication": "cpp"
+        "qguiapplication": "cpp",
+        "*.ipp": "cpp"
     }
 }

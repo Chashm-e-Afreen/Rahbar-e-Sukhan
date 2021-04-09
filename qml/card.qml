@@ -7,18 +7,19 @@ import QtGraphicalEffects 1.15
 
 
 Flow {
-    height: canvas.height
-    width: canvas.width
+    // height: canvas.height
+    // Layout.preferredWidth: canvas.width
+    // Layout.preferredHeight: 250
+    // width: canvas.width
     id: outerFlow
-    property int line_no;
+    property var line_no;
     property int index2;
     // property int count;
-
+    
     Layout.alignment: Qt.AlignHCenter
 
     ColumnLayout {
-        height: canvas.height
-        width: canvas.width
+       
         Rectangle {
             color: "#1a1a1a"
             id: card
@@ -35,9 +36,12 @@ Flow {
                 verticalOffset: 1
                 radius: 3
             }
-            //        width: 750
-            width: 0.95 * canvas.width
-            height: 250
+
+            Layout.minimumWidth: 0.8* root.width
+            Layout.minimumHeight: 250
+            Layout.fillWidth: true
+            Layout.fillHeight: true
+            
             radius: 10
 
 
@@ -46,14 +50,15 @@ Flow {
 
             Flow {
                 id: myFlow
-                topPadding: 20
-                leftPadding: 20
-                rightPadding: 20
+                // topPadding: 20
+                // leftPadding: 20
+                // rightPadding: 20
                 spacing: 0.075 * parent.width
                 width: 0.9 * parent.width
                 Layout.alignment: Qt.AlignCenter
+        
+                anchors.centerIn: parent
 
-                // anchors.centerIn: parent
                 LayoutMirroring.enabled: true
                 LayoutMirroring.childrenInherit: true
                 Flow {
@@ -144,7 +149,9 @@ Flow {
             MouseArea {
                 id: im1MouseArea
                 hoverEnabled: true
-                anchors.fill: parent
+                // anchors.fill: 
+                width: parent.width
+                height: parent.height
                 cursorShape: Qt.PointingHandCursor
                 onContainsMouseChanged: {
                     card.state = containsMouse ? "mouseIn" : "mouseOut"

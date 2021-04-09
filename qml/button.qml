@@ -4,18 +4,19 @@ import QtQuick.Layouts 1.12
 
 Button {
     id: backButton
-    anchors.horizontalCenter: canvas.horizontalCenter
+    // anchors.horizontalCenter: canvas.horizontalCenter
     hoverEnabled: true
     text: "<font color='#ffe'>" + "واپس جائیں" + "</font>"
     font.family: "Mehr Nastaliq Web"
     font.wordSpacing: 4
     font.pointSize: 12
     width: 100
+    Layout.topMargin: 10
     background: Rectangle {
         color: "#5268f4"
         radius: 3
     }
-    // Layout.alignment: Qt.AlignHCenter
+    Layout.alignment: Qt.AlignHCenter
     MouseArea {
         id: mouse
         anchors.fill: parent

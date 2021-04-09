@@ -85,6 +85,7 @@ Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: Files/bomber.svg
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/edit.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/filler.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/text.qml
+Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/editCard.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/landing.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/card.qml
 Rahbar-e-Sukhan_autogen/EWIEGA46WW/qrc_qml.cpp: qml/main.qml

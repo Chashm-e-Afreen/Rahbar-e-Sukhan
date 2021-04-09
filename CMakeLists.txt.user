@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 4.14.0, 2021-03-18T10:40:11. -->
+<!-- Written by QtCreator 4.14.0, 2021-03-27T06:07:20. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -218,7 +218,7 @@
     <value type="bool" key="RunConfiguration.UseLibrarySearchPath">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/bin</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">1</value>
   </valuemap>

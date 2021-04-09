@@ -10,6 +10,7 @@
         <file alias = "busy.qml">qml/busy.qml</file>
         <file alias = "edit.qml">qml/edit.qml</file>
         <file alias = "landing.qml">qml/landing.qml</file>
+        <file alias = "editCard.qml">qml/editCard.qml</file>
         <file>Files/loader.png</file>
         <file>Files/good-1.gif</file>
         <file>Files/loading.gif</file>

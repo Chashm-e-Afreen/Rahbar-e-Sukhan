@@ -9,16 +9,22 @@ ScrollView {
     property int index;
     property int no_of_lines;
     width: availableWidth
-
-        Column {
+    id: scroll
+        ColumnLayout {
             id: canvas
-            width: 800
-            height: 270
-
-
+            // width: 800
+            width: root.width
+            Layout.fillWidth: true
+            // height: 270
+            
+            
             spacing: 20
-            topPadding: 10
-            x: (root.width - 800)/2
+
+            // x: (root.width - 800)/2
+
+            Item{
+                height: 10
+            }
             Component.onCompleted: {
                 var no_of_lines = Dummy.no_of_lines();
                 for (let i = 0; i < no_of_lines; ++i) {

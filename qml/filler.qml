@@ -9,8 +9,9 @@ ColumnLayout {
     height: 450
     spacing: 10
 
-    
-    children: [card, row, button1]
+    id: edit
+    property var myArray: []
+    children: [outerFlow, row, button1]
 
     Button {
         id: button1
@@ -31,7 +32,10 @@ ColumnLayout {
             hoverEnabled: true
             cursorShape: Qt.PointingHandCursor
             onClicked: {
-                canvas.children[line_no] = card;
+                // card.Layout.alignment = Qt.AlignHCenter
+                myArray = Array.from(canvas.children);
+                myArray.splice(line_no+1,0,outerFlow);
+                canvas.children = myArray;
                 stack.pop();
             }
 
@@ -70,7 +74,7 @@ ColumnLayout {
             width: 100
             height: 60
             background: Rectangle {
-                color: "#252524"
+                color: "#616beb"
                 radius: 3
             }
             MouseArea {
