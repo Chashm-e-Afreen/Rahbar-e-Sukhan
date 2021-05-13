@@ -15,5 +15,6 @@ It features a snappy and modern user interface in a compact and intricately writ
 
 ## Built With
 
-* C++ - Programming Language
-* Qt Quick - UI Framework 
+* [C++][https://isocpp.org/]
+* [Qt Quick][https://doc.qt.io/qt-5/qtquick-index.html]
+* [Intel Tbb][https://github.com/oneapi-src/oneTBB]
