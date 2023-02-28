@@ -1,198 +1,216 @@
 {
-	"BUILD_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen",
-	"CMAKE_BINARY_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
-	"CMAKE_CURRENT_BINARY_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
-	"CMAKE_CURRENT_SOURCE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
+	"BUILD_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen",
+	"CMAKE_BINARY_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan",
 	"CMAKE_EXECUTABLE" : "/usr/bin/cmake",
 	"CMAKE_LIST_FILES" : 
 	[
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeLists.txt",
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/3.19.6/CMakeSystem.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeSystemSpecificInitialize.cmake",
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/3.19.6/CMakeCCompiler.cmake",
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/3.19.6/CMakeCXXCompiler.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeSystemSpecificInformation.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeGenericSystem.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeInitializeConfigs.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/Linux.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/UnixPaths.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeCInformation.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
-		"/usr/share/cmake-3.19/Modules/Compiler/GNU-C.cmake",
-		"/usr/share/cmake-3.19/Modules/Compiler/GNU.cmake",
-		"/usr/share/cmake-3.19/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/Linux-GNU-C.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeCXXInformation.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeLanguageInformation.cmake",
-		"/usr/share/cmake-3.19/Modules/Compiler/GNU-CXX.cmake",
-		"/usr/share/cmake-3.19/Modules/Compiler/GNU.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/Linux-GNU-CXX.cmake",
-		"/usr/share/cmake-3.19/Modules/Platform/Linux-GNU.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeCommonLanguageInclude.cmake",
-		"/usr/lib64/cmake/Qt5/Qt5ConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5/Qt5Config.cmake",
-		"/usr/lib64/cmake/Qt5/Qt5ModuleLocation.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5QmlConfig.cmake",
-		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5Network/Qt5NetworkConfig.cmake",
-		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfig.cmake",
-		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
-		"/usr/lib64/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
-		"/usr/lib64/cmake/Qt5Core/Qt5CoreMacros.cmake",
-		"/usr/share/cmake-3.19/Modules/CMakeParseArguments.cmake",
-		"/usr/lib64/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake",
-		"/usr/lib64/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake",
-		"/usr/lib64/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5Quick/Qt5QuickConfig.cmake",
-		"/usr/lib64/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfig.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
-		"/usr/lib64/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/qml.qrc"
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeLists.txt",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeFiles/3.25.2/CMakeSystem.cmake",
+		"/usr/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeFiles/3.25.2/CMakeCCompiler.cmake",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeFiles/3.25.2/CMakeCXXCompiler.cmake",
+		"/usr/share/cmake/Modules/CMakeSystemSpecificInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeGenericSystem.cmake",
+		"/usr/share/cmake/Modules/CMakeInitializeConfigs.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux.cmake",
+		"/usr/share/cmake/Modules/Platform/UnixPaths.cmake",
+		"/usr/share/cmake/Modules/CMakeCInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU-C.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU-C.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/share/cmake/Modules/CMakeCXXInformation.cmake",
+		"/usr/share/cmake/Modules/CMakeLanguageInformation.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU-CXX.cmake",
+		"/usr/share/cmake/Modules/Compiler/GNU.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU-CXX.cmake",
+		"/usr/share/cmake/Modules/Platform/Linux-GNU.cmake",
+		"/usr/share/cmake/Modules/CMakeCommonLanguageInclude.cmake",
+		"/usr/lib/cmake/Qt5/Qt5ConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5/Qt5Config.cmake",
+		"/usr/lib/cmake/Qt5/Qt5ModuleLocation.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5QmlConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5QmlConfig.cmake",
+		"/usr/lib/cmake/Qt5Network/Qt5NetworkConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Network/Qt5NetworkConfig.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfig.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreConfigExtrasMkspecDir.cmake",
+		"/usr/lib/cmake/Qt5Core/Qt5CoreMacros.cmake",
+		"/usr/share/cmake/Modules/CMakeParseArguments.cmake",
+		"/usr/lib/cmake/Qt5Network/Qt5Network_QConnmanEnginePlugin.cmake",
+		"/usr/lib/cmake/Qt5Network/Qt5Network_QGenericEnginePlugin.cmake",
+		"/usr/lib/cmake/Qt5Network/Qt5Network_QNetworkManagerEnginePlugin.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QDebugMessageServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QLocalClientConnectionFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebugServerFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlDebuggerServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlInspectorServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugConnectorFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlNativeDebugServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlPreviewServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQmlProfilerServiceFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QQuickProfilerAdapterFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5Qml_QTcpServerConnectionFactory.cmake",
+		"/usr/lib/cmake/Qt5Qml/Qt5QmlConfigExtras.cmake",
+		"/usr/lib/cmake/Qt5Quick/Qt5QuickConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Quick/Qt5QuickConfig.cmake",
+		"/usr/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5QmlModels/Qt5QmlModelsConfig.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfigVersion.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfig.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QComposePlatformInputContextPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSEmulatorIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsEglDeviceIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSKmsGbmIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEglFSX11IntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevKeyboardPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevMousePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTabletPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QEvdevTouchScreenPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QGifPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QGtk3ThemePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QICNSPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QICOPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QIbusPlatformInputContextPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QJp2Plugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QJpegPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QLibInputPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QLinuxFbIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalEglIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMinimalIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QMngPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QOffscreenIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QPdfPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgIconPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QSvgPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTgaPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTiffPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTsLibPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QTuioTouchPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QVirtualKeyboardPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QVncIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeEglPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWaylandXCompositeGlxPlatformIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWbmpPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWebGLIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QWebpPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbEglIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbGlxIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXcbIntegrationPlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5Gui_QXdgDesktopPortalThemePlugin.cmake",
+		"/usr/lib/cmake/Qt5Gui/Qt5GuiConfigExtras.cmake",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/qml.qrc"
 	],
-	"CMAKE_SOURCE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
+	"CMAKE_SOURCE_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan",
 	"DEP_FILE" : "",
 	"DEP_FILE_RULE_NAME" : "",
 	"HEADERS" : 
 	[
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/Isqat.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/Isqat.hpp",
 			"MU",
-			"6YEA5652QU/moc_Isqat.cpp"
+			"6YEA5652QU/moc_Isqat.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/Lafz.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/Lafz.hpp",
 			"MU",
-			"6YEA5652QU/moc_Lafz.cpp"
+			"6YEA5652QU/moc_Lafz.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/Meter.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/Meter.hpp",
 			"MU",
-			"6YEA5652QU/moc_Meter.cpp"
+			"6YEA5652QU/moc_Meter.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/Satoor.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/Satoor.hpp",
 			"MU",
-			"6YEA5652QU/moc_Satoor.cpp"
+			"6YEA5652QU/moc_Satoor.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/Satr.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/Satr.hpp",
 			"MU",
-			"6YEA5652QU/moc_Satr.cpp"
+			"6YEA5652QU/moc_Satr.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/combination.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/combination.hpp",
 			"MU",
-			"6YEA5652QU/moc_combination.cpp"
+			"6YEA5652QU/moc_combination.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/dummy_class.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/dummy_class.hpp",
 			"MU",
-			"6YEA5652QU/moc_dummy_class.cpp"
+			"6YEA5652QU/moc_dummy_class.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/fetch_dict.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/fetch_dict.hpp",
 			"MU",
-			"6YEA5652QU/moc_fetch_dict.cpp"
+			"6YEA5652QU/moc_fetch_dict.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/input.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/input.hpp",
 			"MU",
-			"6YEA5652QU/moc_input.cpp"
+			"6YEA5652QU/moc_input.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/iosifovitch.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/iosifovitch.hpp",
 			"MU",
-			"6YEA5652QU/moc_iosifovitch.cpp"
+			"6YEA5652QU/moc_iosifovitch.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/meters.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/meters.hpp",
 			"MU",
-			"6YEA5652QU/moc_meters.cpp"
+			"6YEA5652QU/moc_meters.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/utf8_iterator.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/utf8_iterator.hpp",
 			"MU",
-			"6YEA5652QU/moc_utf8_iterator.cpp"
+			"6YEA5652QU/moc_utf8_iterator.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/utf8_string.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/utf8_string.hpp",
 			"MU",
-			"6YEA5652QU/moc_utf8_string.cpp"
+			"6YEA5652QU/moc_utf8_string.cpp",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include/utility.hpp",
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include/utility.hpp",
 			"MU",
-			"6YEA5652QU/moc_utility.cpp"
+			"6YEA5652QU/moc_utility.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
-	"INCLUDE_DIR" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/include",
-	"MOC_COMPILATION_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp",
+	"INCLUDE_DIR" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/include",
+	"MOC_COMPILATION_FILE" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/mocs_compilation.cpp",
 	"MOC_DEFINITIONS" : 
 	[
 		"QT_CORE_LIB",
 		"QT_GUI_LIB",
 		"QT_NETWORK_LIB",
+		"QT_NO_DEBUG",
+		"QT_NO_KEYWORDS",
 		"QT_QMLMODELS_LIB",
 		"QT_QML_LIB",
 		"QT_QUICK_LIB"
@@ -206,8 +224,8 @@
 	],
 	"MOC_INCLUDES" : 
 	[
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan",
-		"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/include",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan",
+		"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/include",
 		"/usr/include/qt",
 		"/usr/include/qt/QtQml",
 		"/usr/include/qt/QtNetwork",
@@ -216,12 +234,12 @@
 		"/usr/include/qt/QtQuick",
 		"/usr/include/qt/QtQmlModels",
 		"/usr/include/qt/QtGui",
-		"/usr/include/c++/10.2.0",
-		"/usr/include/c++/10.2.0/x86_64-pc-linux-gnu",
-		"/usr/include/c++/10.2.0/backward",
-		"/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include",
+		"/usr/include/c++/12.2.1",
+		"/usr/include/c++/12.2.1/x86_64-pc-linux-gnu",
+		"/usr/include/c++/12.2.1/backward",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include",
 		"/usr/local/include",
-		"/usr/lib/gcc/x86_64-pc-linux-gnu/10.2.0/include-fixed",
+		"/usr/lib/gcc/x86_64-pc-linux-gnu/12.2.1/include-fixed",
 		"/usr/include"
 	],
 	"MOC_MACRO_NAMES" : [ "Q_OBJECT", "Q_GADGET", "Q_NAMESPACE", "Q_NAMESPACE_EXPORT" ],
@@ -233,72 +251,85 @@
 		"-dM",
 		"-E",
 		"-c",
-		"/usr/share/cmake-3.19/Modules/CMakeCXXCompilerABI.cpp"
+		"/usr/share/cmake/Modules/CMakeCXXCompilerABI.cpp"
 	],
-	"MOC_PREDEFS_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/moc_predefs.h",
+	"MOC_PREDEFS_FILE" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/Rahbar-e-Sukhan_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
 	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
-	"PARALLEL" : 2,
-	"PARSE_CACHE_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/ParseCache.txt",
+	"PARALLEL" : 4,
+	"PARSE_CACHE_FILE" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/ParseCache.txt",
 	"QT_MOC_EXECUTABLE" : "/usr/bin/moc",
 	"QT_UIC_EXECUTABLE" : "",
 	"QT_VERSION_MAJOR" : 5,
 	"QT_VERSION_MINOR" : 15,
-	"SETTINGS_FILE" : "/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/AutogenUsed.txt",
+	"SETTINGS_FILE" : "/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/CMakeFiles/Rahbar-e-Sukhan_autogen.dir/AutogenUsed.txt",
 	"SOURCES" : 
 	[
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Isqat.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/Isqat.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Lafz.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/Lafz.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Meter.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/Meter.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satoor.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/Satoor.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/Satr.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/Satr.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/combination.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/combination.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/dummy_class.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/dummy_class.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/fetch_dict.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/fetch_dict.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/input.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/input.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/levenshtein.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/levenshtein.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/main.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/main.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_iterator.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/utf8_iterator.cpp",
+			"MU",
+			null
 		],
 		[
-			"/home/enigma/Documents/C++/Updated/Rahbar-e-Sukhan/src/utf8_string.cpp",
-			"MU"
+			"/home/quasar/Documents/projects/qt/Rahbar-e-Sukhan/src/utf8_string.cpp",
+			"MU",
+			null
 		]
 	],
 	"UIC_OPTIONS" : [],

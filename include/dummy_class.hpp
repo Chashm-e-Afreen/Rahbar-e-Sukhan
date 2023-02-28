@@ -15,10 +15,11 @@
 class dummy_class : public QObject
 {
     Q_OBJECT
-signals:
-//    void send_to_qml(std::string);
+Q_SIGNALS:
+   void send_to_qml(std::string);
 //    void result_ready(const QString& result);
-public slots:
+//
+public Q_SLOTS:
     QString retrieve_input(const QString& input);
     int no_of_lines();
     int no_of_words(const int& index);
